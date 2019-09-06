@@ -1,0 +1,54 @@
+# depslib dependency file v1.0
+1553698374 source:c:\users\alumno\desktop\tp calcu\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1553698394 source:c:\users\alumno\desktop\tp calcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"Funciones.h"
+
+1553698374 c:\users\alumno\desktop\tp calcu\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1554145213 source:c:\users\mariooscar\desktop\facu\tp1_calculadora\tp calcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+	<ctype.h>
+
+1554143749 c:\users\mariooscar\desktop\facu\tp1_calculadora\tp calcu\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1554143704 source:c:\users\mariooscar\desktop\facu\tp1_calculadora\tp calcu\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1554315530 source:c:\users\mariooscar\desktop\facu\tp1_laboratorio1_calculadora\tp calcu\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1554317164 source:c:\users\mariooscar\desktop\facu\tp1_laboratorio1_calculadora\tp calcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1554143749 c:\users\mariooscar\desktop\facu\tp1_laboratorio1_calculadora\tp calcu\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
+1567599005 source:c:\users\alumno\desktop\tp1_laboratorio1_calculadora\tp calcu\funciones.c
+	<stdio.h>
+	<stdlib.h>
+
+1567600232 source:c:\users\alumno\desktop\tp1_laboratorio1_calculadora\tp calcu\main.c
+	<stdio.h>
+	<stdlib.h>
+	"funciones.h"
+
+1567597558 c:\users\alumno\desktop\tp1_laboratorio1_calculadora\tp calcu\funciones.h
+	<stdio.h>
+	<stdlib.h>
+
